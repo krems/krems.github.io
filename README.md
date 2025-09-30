@@ -1,3 +1,3 @@
 # krems.github.io
 various docs
-[[Business model.md]]
+[Business model](Business model.md)
