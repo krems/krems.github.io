@@ -14,7 +14,7 @@
 
 [Risks](Risks.md)
 
-[TAM-SAM-SOM Columbia](TAM-SAM-SOM Columbia.md)
+[TAM-SAM-SOM Colombia](TAM-SAM-SOM Columbia.md)
 
 [Competitor Analysis](Competitor Analysis.md)
 
@@ -26,6 +26,6 @@
 
 [Risks](Risks EN.md)
 
-[TAM-SAM-SOM Columbia](TAM-SAM-SOM Columbia EN.md)
+[TAM-SAM-SOM Colombia](TAM-SAM-SOM Columbia EN.md)
 
 [Competitor Analysis](Competitor Analysis EN.md)
