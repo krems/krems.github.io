@@ -1,4 +1,4 @@
-# krems.github.io
+# RU
 
 [Business Model](Business model.md)
 
@@ -17,3 +17,23 @@
 [TAM-SAM-SOM Columbia](TAM-SAM-SOM Columbia.md)
 
 [Competitor Analysis](Competitor Analysis.md)
+
+# EN
+
+[Business Model](Business model EN.md)
+
+[Cust Dev](Cust Dev EN.md)
+
+[Finance and UE](Finance EN.md)
+
+[Go-to-Market Strategy](Go-to-Market EN.md)
+
+[Marketing Strategy](Marketing EN.md)
+
+[Product Development](Product Development EN.md)
+
+[Risks](Risks EN.md)
+
+[TAM-SAM-SOM Columbia](TAM-SAM-SOM Columbia EN.md)
+
+[Competitor Analysis](Competitor Analysis EN.md)
