@@ -22,15 +22,7 @@
 
 [Business Model](Business model EN.md)
 
-[Cust Dev](Cust Dev EN.md)
-
-[Finance and UE](Finance EN.md)
-
 [Go-to-Market Strategy](Go-to-Market EN.md)
-
-[Marketing Strategy](Marketing EN.md)
-
-[Product Development](Product Development EN.md)
 
 [Risks](Risks EN.md)
 
