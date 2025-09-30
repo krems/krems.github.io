@@ -16,4 +16,4 @@
 
 [TAM-SAM-SOM Columbia](TAM-SAM-SOM Columbia.md)
 
-[Анализ конкурентов Колумбия](Анализ конкурентов Колумбия.md)
+[Competitor Analysis](Competitor Analysis.md)
