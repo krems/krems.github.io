@@ -47,6 +47,7 @@ This strategy will allow your PSP not only to compete with already established p
 - **Movii**: ~3 million users, focus on money transfers
 
 These platforms allow users to store money in digital format and make payments without physical cards.
+They also support Bre-B.
 
 ### 2. QR Code Payments  
 **Share: ~15-20% of digital payments**
@@ -54,6 +55,8 @@ These platforms allow users to store money in digital format and make payments w
 - **Mercado Pago QR**: widely used in retail
 - **Bancolombia QR**: integration with physical points of sale
 - **PSE QR**: bank QR codes for instant transfers
+
+Bre-B looks more promising than PSE as it has much less steps to pay
 
 QR payments are particularly popular in food delivery, taxi and small retail segments.
 
@@ -99,6 +102,7 @@ Outdated method, mainly used in rural areas:
 | QR Codes            | 8%   | 18%  | +125%  |
 | In-App             | 12%  | 15%  | +25%   |
 | Contactless/NFC    | 2%   | 4%   | +100%  |
+| Bre-B              | launched Jul 2025 | | high expectations |
 
 ## Implications for PSP
 
